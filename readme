@@ -1,4 +1,6 @@
-INSTRUCTIONS FOR RUNNING SIMULATION
+# DTU Course 02223 Model-based System Engineering Project
+
+**INSTRUCTIONS FOR RUNNING SIMULATION**
 
 All files that contain the simulations execution have prefix “run_simulation...”. On the top of each file are defined constant values
 that can be changes for each run. The parameterized values are:
